@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          <p>Burn in the fires of HELL!!!!</p>
+          <p>You are now in feature branch and you will still Burn in the fires of HELL!!!!</p>
         </p>
         <a
           className="App-link"
